@@ -1,5 +1,11 @@
 # Frontend Mentor - QR code component
 
+### Visit 
+
+## Visit the Website
+
+You can access the To-Do App Project by visiting the [GitHub Pages website](https://rutikkulkarni.github.io/Responsive-QR-code-card/).
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
